@@ -1,0 +1,1420 @@
+{
+  "settings": {
+    "name": "ict",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "true",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 35,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cris-tagupa-711694-unsplash-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "BEAUTY AT ITS FINEST",
+          "text": "<span style=\"font-style: normal;\">Comprising more than 7,000 islands, the Philippines is one of the most beautiful countries in the world. It is known for its history, mesmerizing tourist attractions and delicious foods. Come with us and let's explore the Philippines</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "8",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/6308329283-6c3bb80152-o-2000x1773-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "HISTORICAL SITES",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\">Read and see the historical sites of the Philippines that will surely make you feel nostalgia</span>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">READ!</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/4482105560-7bbf426d4c-o-2000x1331.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "TOURIST ATTRACTIONS",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\">Feel free to explore at the most visited places like beaches in the Philippines</span>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">EXPLORE!</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3640432382-ef85ca7c2c-o-2000x1350.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "DELICIOUS FOODS&nbsp;",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\">Look at the list of the most iconic foods of the Philippines that will make your mouth water! &nbsp;&nbsp;</span>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">LOOK!</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-2",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kisspng-flag-of-the-philippines-clip-art-philippines-5abbb868a9ba49-118x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page4.html\">ABOUT US!</a></li>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Web Site Builder Title",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6308329283-6c3bb80152-o-2000x1773.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "A BLAST FROM THE PAST",
+          "text": "<span style=\"font-style: normal;\">The Philippines has a lot of history that made it the country that it is today.<br>Starting from the Spaniards colonization to the Japanese invasion, the Philippines fought what is rightfully theirs. So we picked 6 &nbsp;historical sites that will truly tell you a story.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/30894698221-aa2d5ffb47-o-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "RIZAL PARK",
+          "caption": "<p>Rizal Park or Luneta Park was built as a tribute to our greatest national hero – Dr. Jose Rizal. It is one of the leading historical sites in the Philippines where Rizal was executed by the Spanish military firing squad on December 30, 1896. Nowadays, it is one of the major tourist attractions of Manila. The park became a favorite spot for unwinding and socializing. It is also a place for family bonding and picnics during Sundays and holidays.</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-9",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1627210376-e6c5b0bc06-o-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "CORREGIDOR",
+          "caption": "<p>Known to be the “the Rock”, Corregidor is known for its important historical attractions. When the Japanese invaded the Philippines, Corregidor became the headquarters of the Allied Forces and also the seat of Philippine Commonwealth government. The huge firearms of Corregidor which are used in support for Filipino and American defenders of Bataan are now silent but the damage seen on buildings, structures, and tunnels in the island continues on telling a very moving story of a war that has claimed so many lives. A visit to this former battleground is a memorable experience, especially for those people who value and cherish freedom and peace.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-a",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/macarthurpark-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "LEYTE LANDING MEMORIAL PARK",
+          "caption": "<p>If you ever drop by Tacloban City, the Leyte Landing Memorial Park, formerly known as the “McArthur Park,” is a must-visit destination. Remember the promise made by Gen. Douglas McArthur “I shall return”? He kept this promise when he returned with an army of 700 ships containing 174,000 American soldiers at Red Beach, Palo, Leyte on October 20, 1944. The “red” in Red Beach doesn’t refer to the natural color of the sand, but its color after being drenched in blood.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Many tourists visit the park to reminisce an important event in history – the fulfilment of Gen. McArthur’s promise to the Filipinos to come back and help them win against the Japanese colonies. It always brings inspirational memories of how our beloved ancestors fought for our freedom.</span><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-b",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/319347366-26b512bd01-o-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BANAUE RICE TERRACES",
+          "caption": "<p>The Banaue Rice Terraces was made approximately 2000 years ago, carved into the mountains by the indigenous people using only their hands and some crude equipment. It is said that if the steps were put end to end, it would encircle half the globe. It is considered as one of mankind's greatest engineering accomplishments.</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3918464996-d3bec57c97-o-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BARASOAIN CHUCRH",
+          "caption": "Having earned the title as the Cradle of Democracy in the East, Barasoain Church is the most important religious building in the Philippines.<div><br></div><div>It was founded by the Augustinian Missionaries in 1859 and served as the session hall of Malolos Congress, the first congress in the Philippines which was held in September 15, 1898 under the presidency of Pedro Paterno. Three major events in the Philippine history happened in this church: the convening of the First Philippine Congress (September 15, 1898), the drafting of the Malolos Constitution (September 29, 1898 to January 21, 1899), and the inauguration of the First Philippine Republic (January 23, 1899)</div><div><br></div><div><br></div><div><br></div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-d",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6927371692-3626122a66-o-2000x1324.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "RIZAL SHRINE",
+          "caption": "Rizal Shrine is an important historical place in Dapitan where Dr. Jose Rizal spent four years in exile. He lived here as a physician, merchant, farmer, inventor, painter, sculptor, archaeologist, linguist, grammarian, teacher, architect, poet, biologist, composer, surveyor, and environmentalist. He was also a father and brother to all Dapitanons, serving and helping those who needed him. No wonder Dr. Jose Rizal is considered as the Philippine National Hero.<div><br></div><div>Rizal Shrine nowadays is one of the most attractive tourist spots in the Philippines. It reflects Rizal’s lifestyle and how he socialized with the&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">people around him.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kisspng-flag-of-the-philippines-clip-art-philippines-5abbb868a9ba49-118x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page4.html\">ABOUT US!</a></li>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Web Builder Title",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kisspng-flag-of-the-philippines-clip-art-philippines-5abbb868a9ba49-118x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page4.html\">ABOUT US!</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3640432382-ef85ca7c2c-o-2000x13508.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "ICONIC FOODS",
+          "text": "Every country has their own traditional foods that represents them. So we picked 6 foods from the Philippines that is affordable and delicious. Enjoy!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-h",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/34447384063-b45af4040f-o-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "CHICKEN ADOBO",
+          "caption": "Chicken adobo is one of the most famous foods to try in the Philippines, known and loved by everyone.<div><br></div><div>Adobo means “marinade” in Spanish and this is just that: chicken (or pork) marinated in a mixture of soya sauce and vinegar. Other ingredients are added depending on whose recipe you follow.</div><div><br></div><div><br></div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-j",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/4466730274-477356b90f-o-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "KARE KARE",
+          "caption": "Kare kare is an oxtail and ox tripes stew with lots of vegetables, flavoured with ground roasted peanuts or peanut butter, onions and garlic. It is served with shrimp sauce (‘bagoong’), sometimes spiced with chill and sprinkled with calamansi juice (Filipino lime).<div><br></div><div>Kare Kare is famous throughout the whole country. The alleged origin of its name is from the word ‘curry’ due to the influence of the Indian community in Metro Manila’s Cainta, Rizal area.</div><div><br></div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "36px"
+            },
+            "DIV": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/4551496185-09abd2d274-o-2000x1499.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "KINILAW",
+          "caption": "Kinilaw is similar to the famous Peruvian dish called ceviche. It is a raw fish salad served in an acidic juice, usually kalamansi (Filipino lime) and vinegar, which “cooks” the meat. Kinilaw comes from the word, “kilaw” which means, ‘eaten fresh’.<div><br></div><div>Other ingredients usually include garlic, ginger, onion, pepper and chilli.</div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-l",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/balut-fertilized-duck-embryo-2000x1290.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BALUT",
+          "caption": "<p>Balut is a developing duck embryo boiled and eaten as a snack in the shell and with a splash of vinegar. This is definitely one of the most famous foods to try in the Philippines (and probably the strangest).</p><p>Balut is a popular street food, which originated in the Philippines and is also frequently found in Vietnam, Laos and Cambodia.</p><p><span style=\"line-height: 1.5;\">The ideal age of the duck embryo is 17 days, when the chick is not old enough to fully show its beak, feathers, claws and the bones are undeveloped.</span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/35292498562-50a45d46f4-o-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "SINIGANG",
+          "caption": "Sinigang is a meat based sour stew or soup with lots of vegetables. The most popular souring agent is tamarind (sampalok). Pork (baboy) is the most common meat used but chicken, beef and fish are also popular.<div><br></div><div>Alternative souring agents include guava, tomatoes or kalamansi (Filipino lime).</div><div><br></div><div><br></div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/4613890800-a6bbfdb1d1-o-2000x1580.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "HALO-HALO",
+          "caption": "This is THE famous Filipino desert. Halo Halo (meaning ‘mixed together’ in Filipino) is served in a tall glass containing ice shavings, evaporated milk and various small chunks of yummy goodies all mixed in together.<div><span style=\"line-height: 1.5;\"><br></span></div><div><span style=\"line-height: 1.5;\">Yummy goodies include boiled kidney beans, chickpeas (“garbanzo”), sugar palm fruit (“kaong”), jackfruit, tapioca, sweet potato, sweet beans, coconut gel, ice cream, guava paste, purple yam and many more!</span></div><div><span style=\"line-height: 1.5;\"><br></span></div><div><span style=\"line-height: 1.5;\">The end result is a tropical, colourful and exciting mess: great for the beach!</span><br></div>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Web Generator Title",
+        "meta_descr": "Web Generator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-p",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/4482105560-7bbf426d4c-o-2000x13319.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "WONDERS OF THE PHILIPPINES",
+          "text": "The Philippines is truly gifted with its natural resources and the beauty of every island it has. So we present to you 6 tourist spots in the Philippines.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-q",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/istock-2000x1200.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BORACAY",
+          "caption": "Boracay is a small island in the central Philippines. It's known for its resorts and beaches. Along the west coast, White Beach is backed by palm trees, bars and restaurants. On the east coast, strong winds make Bulabog Beach a hub for water sports. Nearby, the observation deck on Mount Luho offers panoramic views over the island. Offshore, coral reefs and shipwrecks are home to diverse marine life."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-r",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/chocolate-hills-thumb-clean-2000x1200.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "CHOCOLATE HILLS",
+          "caption": "The Chocolate Hills are a geological formation in the Bohol province of the Philippines. There are at least 1,260 hills but there may be as many as 1,776 hills spread over an area of more than 50 square kilometres. They are covered in green grass that turns brown during the dry season, hence the name."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-s",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/coron-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "CORON ISLANDS",
+          "caption": "Coron is the third-largest island in the Calamian Islands in northern Palawan in the Philippines. The island is part of the larger municipality of the same name. It is about 170 nautical miles southwest of Manila and is known for several Japanese shipwrecks of World War II vintage."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-t",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/download-2000x1334.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "SIARGAO ISLAND",
+          "caption": "Siargao is a tear-drop shaped island in the Philippine Sea situated 800 kilometers southeast of Manila in the province of Surigao del Norte. It has a land area of approximately 437 square kilometres. The east where such Art Skyes coast is relatively straight with one deep inlet, Port Pilar."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-u",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/4639392140-10136c47a6-o1-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "TAAL VOLCANO",
+          "caption": "Taal Volcano is a complex volcano located on the island of Luzon in the Philippines. It is the second most active volcano in the Philippines with 33 historical eruptions. All of these eruptions are concentrated on Volcano Island, an island near the middle of Taal Lake"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-v",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mayon-2000x931.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "MAYON VOLCANO",
+          "caption": "Renowned as the \"perfect cone\" because of its symmetric conical shape, the volcano with its surrounding landscape was declared a national park on July 20, 1938, the first in the nation. It was reclassified a Natural Park and renamed as the Mayon Volcano Natural Park in 2000."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kisspng-flag-of-the-philippines-clip-art-philippines-5abbb868a9ba49-118x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page4.html\">ABOUT US!</a></li>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Website Maker Title",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Alexis Seneres",
+              "authorBio": "Creator"
+            },
+            {
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John vincent Velasco",
+              "authorBio": "Creator"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Janine Valera",
+              "authorBio": "Creator"
+            }
+          ],
+          "_anchor": "testimonials1-x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "CREATORS",
+          "subtitle": ""
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kisspng-flag-of-the-philippines-clip-art-philippines-5abbb868a9ba49-118x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        }
+      ]
+    }
+  }
+}
